@@ -18,3 +18,5 @@ If you feel like there's a major problem, please open an issue to discuss the pr
 ## License
 
 MIT
+## Overview
+Twitter Clone done by react-redux. It's just an application on how to use react-redux in the best way to handle the state inside a react app.
